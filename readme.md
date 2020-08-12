@@ -1,3 +1,6 @@
+**This repo is no longer maintained.**
+
+
 See all the quotes here in the gh-pages branch: http://fortrabbit.github.io/quotes/
 
 # Quotes for developers
